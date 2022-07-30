@@ -1,2 +1,1 @@
-# CTFrehberim
-Araştırmalarım
+CHECK RELEASES
